@@ -1,10 +1,10 @@
 ```plaintext
  
-    ┌───────────────────────┒   Bombshell builds delightful tools for the
-    │                       ┃   JavaScript ecosystem. We're simplifying a
-    │     ●* BOMBSHELL      ┃   historically underappreciated technology:
-    │                       ┃   the command line interface. It's time for
-    ┕━━━━━━━━━━━━━━━━━━━━━━━┛   us to demand delightful shell experiences
+    ┌───────────────────────┒    Bombshell builds delightful tools for the
+    │                       ┃    JavaScript ecosystem. We're simplifying a
+    │     ●* BOMBSHELL      ┃    historically underappreciated technology:
+    │                       ┃    the command line interface. It's time for
+    ┕━━━━━━━━━━━━━━━━━━━━━━━┛    us to demand delightful shell experiences
     
 
    ▶ EVERYONE IS VALUED HERE ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─

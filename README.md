@@ -1,4 +1,4 @@
-```text
+```plaintext
  
     ┌───────────────────────┒   Bombshell builds delightful tools for the
     │                       ┃   JavaScript ecosystem. We're simplifying a

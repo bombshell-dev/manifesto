@@ -23,7 +23,7 @@
      there's no science to magical experiences–it just takes care and luck
 
 
-   ▶ FUN IS ACTUALLY QUITE SERIOUS ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+   ▶ FUN IS QUITE SERIOUS  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
      look-there's enough bullshit to wade through out in the world. we can
      provide moments of calm and delight among all the chaos. that matters
@@ -31,7 +31,7 @@
      give yourself extra space. moments of joy can make the grind worth it
 
 
-   ▶ TRUST IS A NON-NEGOTIABLE ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+   ▶ TRUST IS NON-NEGOTIABLE ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
      communities are built on trust and trust demands transparency. we can
      make decisions in the open because there is nothing that needs hiding

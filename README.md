@@ -1,4 +1,5 @@
-```plaintext
+<!--content-->
+```
  
     ┌───────────────────────┒    Bombshell builds delightful tools for the
     │                       ┃    JavaScript ecosystem. We're simplifying a
@@ -41,6 +42,7 @@
 
      
 ```
+<!--content-->
 
 <br/><br/><br/>
 <a href="https://github.com/bombshell-dev/manifesto"><picture>
